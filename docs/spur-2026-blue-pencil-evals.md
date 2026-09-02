@@ -83,7 +83,8 @@ public repository.
 
 ## Notes for the faculty side (not part of the posting)
 
-Suggested 10 week arc, one row per meeting:
+The task-level backlog with acceptance criteria is in `TASKS.md` at the repo
+root. Suggested 10 week arc, one row per meeting:
 
 | Week | Milestone |
 |------|-----------|
